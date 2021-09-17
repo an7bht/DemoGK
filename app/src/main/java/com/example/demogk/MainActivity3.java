@@ -21,7 +21,7 @@ public class MainActivity3 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main3);
-
+        // okokokokok
         //mLinhKiens = new ArrayList<>();
         rcv_bag = findViewById(R.id.rcv_bag);
         tvsub  =findViewById(R.id.tvSub);
